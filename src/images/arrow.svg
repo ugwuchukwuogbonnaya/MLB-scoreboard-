@@ -1,0 +1,18 @@
+
+<svg width="28px" height="43px" viewBox="0 0 28 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M36.2132034,16.2132034 L15.2132034,16.2132034 L15.2132034,37.2132034 L6.21320344,37.2132034 L6.21320344,7.21320344 L36.2132034,7.21320344 L36.2132034,16.2132034 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-954.000000, -117.000000)">
+            <g id="Calendar-Container" transform="translate(954.000000, 116.000000)">
+                <g id="Combined-Shape" transform="translate(21.213203, 22.213203) rotate(-45.000000) translate(-21.213203, -22.213203) ">
+                    <use fill="#29BDEB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#209AC0" stroke-width="1" d="M35.7132034,15.7132034 L35.7132034,7.71320344 L6.71320344,7.71320344 L6.71320344,36.7132034 L14.7132034,36.7132034 L14.7132034,15.7132034 L35.7132034,15.7132034 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

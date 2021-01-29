@@ -1,0 +1,11 @@
+// Holds the commands for all of the redux actions
+
+export let DATE_CHANGED = "DATE_CHANGED";
+
+export let REQUEST_SCORES = "REQUEST_SCORES";
+export let SCORES_GET_SUCCESS = "SCORES_GET_SUCCESS";
+export let SCORES_GET_FAILURE = "SCORES_GET_FAILURE";
+
+export let REQUEST_DETAILS = "REQUEST_DETAILS";
+export let DETAILS_GET_SUCCESS = "DETAILS_GET_SUCCESS";
+export let DETAILS_GET_FAILURE = "DETAILS_GET_FAILURE";
